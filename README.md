@@ -8,5 +8,5 @@ inside test directory, is and test file that you can run and test the important 
 i wrote the compiler and deployer of the contract with the latest changes of web3.js
 you can log the module.export of the compile.js file and see the bytecode and ABI
 the current deployer of the contract uses the rpc of goerli and you should put your private key in the code so deploy.js can use your account to deploy on goerli, dont forget that you should have some amount of goerli ether in your wallet to pay for the fee.
-#deployed contract
+# deployed contract
 on Goerli 0x7fdC6fE057B54BD93cc5a170a1aD094469718CF5
